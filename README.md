@@ -4,11 +4,11 @@ The long time goal is to implement almost every pseudocode written in this textb
 
 ---
 # Table of Contents
-1. [Bucketsort]()
-2. [Bubblesort]()
-3. [Insertion Sort]()
-4. [Merge Sort]()
-5. [Quicksort]()
+1. [Bucketsort](#bucketsort)
+2. [Bubblesort](#Bubblesort)
+3. [Insertion Sort](#Insertion-Sort)
+4. [Merge Sort](#Merge-Sort)
+5. [Quicksort](#Quicksort)
 
 ---
 ## Bucketsort
@@ -18,7 +18,6 @@ Bucketsort is a distribution sorting algorithm that works by dividing the input 
 
 ### Example
 ```python
-Copy code
 A = [5, 2, 4, 7, 1, 3, 2, 6]
 Bucketsort(A)
 print(A)
